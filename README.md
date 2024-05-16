@@ -2,7 +2,7 @@
 
 <h2> 🖥️ Cybersecurity Projects:</h2>
 
-- <b>Cloud / Azure Project (AlgoExpert)</b>
+- <b>Cloud / Azure Project</b>
   - [Creating a live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
