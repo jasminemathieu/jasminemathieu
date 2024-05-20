@@ -12,8 +12,9 @@
 
 <h2>🖥️ Cybersecurity Projects:</h2>
 
-- <b>Cloud / Azure Project</b>
+- <b>Microsoft Azure</b>
   - [Creating a live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
+  - [Creating a live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
 
 <h2>🤳 Contact Me:</h2>
 
