@@ -37,10 +37,12 @@
 - <b>Microsoft Azure</b>
   - [Creating a Live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
   - [Configuring Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
+  - [Backup and Recovery](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
+  - [Vulnerability Management in OpenVAS / Greenbone](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
 
 - <b>Linux</b>
-  - [Some lab](https://github.com/jasminemathieu/Azure-SOC)
-  - [another lab](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
+  - [Environment Setup and Privileges](https://github.com/jasminemathieu/Azure-SOC)
+  - [Load Balancing](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
  
 <h2>⏳ Pending:</h2>
 
