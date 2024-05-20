@@ -38,6 +38,11 @@
   - [Creating a Live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
   - [Configuring Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
 
+<h2>⏳ Pending:</h2>
+- <b>Redhat Certified System Administrator</b>
+- <b>RMicrosoft 365 Certified: Endpoint Administrator Associate</b>
+- <b>AWS Sys Ops</b>
+
 <h2>🤳 Contact Me:</h2>
 
 <p align="left">
