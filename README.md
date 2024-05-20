@@ -14,7 +14,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
-  - [Users, Roles and Permissions Configurations](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
+  - [Configuring Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
 
 <h2>🤳 Contact Me:</h2>
 
