@@ -39,9 +39,12 @@
   - [Configuring Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
 
 <h2>⏳ Pending:</h2>
-- <b>Redhat Certified System Administrator</b>
-- <b>RMicrosoft 365 Certified: Endpoint Administrator Associate</b>
-- <b>AWS Sys Ops</b>
+
+  - Redhat Certified System Administrator
+
+  - Microsoft 365 Certified: Endpoint Administrator Associate
+
+  - AWS Sys Ops
 
 <h2>🤳 Contact Me:</h2>
 
