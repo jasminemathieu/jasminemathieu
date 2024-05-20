@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jasmine! System Administrator, <a href="https://www.linkedin.com/in/jasmine-mathieu/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Jasmine! System Administrator, Cybersecurity Professional</a></h1>
 
 <h2 align="left">📜 Certifications:</h2>
 
