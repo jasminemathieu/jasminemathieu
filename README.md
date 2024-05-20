@@ -42,7 +42,7 @@
 
 - <b>Linux</b>
   - [Environment Setup and Privileges](https://github.com/jasminemathieu/Azure-SOC)
-  - [Load Balancing](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
+  - [Load Balancing Configuration](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
  
 <h2>⏳ Pending:</h2>
 
