@@ -38,14 +38,14 @@
 
 <h2>🖥️ Cybersecurity Projects:</h2>
 
-- <b>Microsoft Azure</b>
+### <b>Microsoft Azure</b>
   - [Creating a Live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
   - [Configuring Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
   - [Backup and Recovery](https://github.com/jasminemathieu/Backup-and-Recovery)
 
 <h2>⏳ Pending Cybersecurity Projects:</h2>
 
-- <b>Linux</b>
+### <b>Linux</b>
   - [Environment Setup and Privileges]()
   - [Load Balancing Configuration]()
 
