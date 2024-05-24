@@ -2,7 +2,7 @@
 
 <h2 align="left">📜 Secured Certifications:</h2>
 
-<a href="https://imgur.com/g8plkWG"><img src="https://img.shields.io/badge/ITIL%204%20Foundation-purple?style=for-the-badge&logo=itil&link=https://imgur.com/g8plkWG" alt="ITIL 4 Foundation" /></a> <a href="https://www.credly.com/badges/b3040c52-a78d-496b-9833-fffda09d6c1d/public_url"><img src="https://img.shields.io/badge/CompTIA%20Security+-red?style=for-the-badge&logo=comptia&link=https://www.credly.com/badges/b3040c52-a78d-496b-9833-fffda09d6c1d/public_url" alt="CompTIA Security+" /></a> 
+<a href="https://imgur.com/g8plkWG"><img src="https://img.shields.io/badge/ITIL%20v4%20Foundation-purple?style=for-the-badge&logo=itil&link=https://imgur.com/g8plkWG" alt="ITIL 4 Foundation" /></a> <a href="https://www.credly.com/badges/b3040c52-a78d-496b-9833-fffda09d6c1d/public_url"><img src="https://img.shields.io/badge/CompTIA%20Security+-red?style=for-the-badge&logo=comptia&link=https://www.credly.com/badges/b3040c52-a78d-496b-9833-fffda09d6c1d/public_url" alt="CompTIA Security+" /></a> 
 <a href="https://www.credly.com/badges/c0736cfa-021e-414b-a198-4ac3538da2cc/public_url"><img src="https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white&link=https://www.credly.com/badges/c0736cfa-021e-414b-a198-4ac3538da2cc/public_url" alt="Google Cybersecurity" /></a>
 
 <h2>⏳ Pending Certifications:</h2>
