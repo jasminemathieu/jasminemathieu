@@ -39,9 +39,9 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 ### <b>Microsoft Azure</b>
-  - [Creating a Live SOC/Honeynet in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
+  - [Live SOC/Honeynet Architecture in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
   - [Active Directory Cloud Configuration: Users, Roles and Permissionss](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
-  - [Backup and Recovery](https://github.com/jasminemathieu/Backup-and-Recovery)
+  - [Backup and Recovery in Azure](https://github.com/jasminemathieu/Backup-and-Recovery)
 
 <h2>⏳ Pending Cybersecurity Projects:</h2>
 
