@@ -43,7 +43,7 @@
   - [Configuring Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
   - [Backup and Recovery](https://github.com/jasminemathieu/Backup-and-Recovery)
 
-<h2>🖥️ Pending Cybersecurity Projects:</h2>
+<h2>⏳ Pending Cybersecurity Projects:</h2>
 
 - <b>Linux</b>
   - [Environment Setup and Privileges]()
