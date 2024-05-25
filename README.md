@@ -46,8 +46,8 @@
 <h2>⏳ Pending Cybersecurity Projects:</h2>
 
 ### <b>Linux</b>
-  - [Environment Setup and Privileges]()
-  - [Load Balancing Configuration]()
+  - [Environment Setup and Privileges](https://github.com/jasminemathieu)
+  - [Load Balancing Configuration](https://github.com/jasminemathieu)
 
 <h2>🤳 Contact Me:</h2>
 
