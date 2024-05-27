@@ -42,10 +42,10 @@
   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="37" alt="PHP logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="31" alt="PHP logo"  />
   <img width="9" />
   <img src="https://imgur.com/569X65E.png" height="40" alt="Splunk logo"  />
-  <img width="12" />
+  <img width="6" />
 
 </div>
 
