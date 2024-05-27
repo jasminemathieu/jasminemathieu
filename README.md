@@ -9,7 +9,7 @@
 
 <a href="https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam"><img src="https://img.shields.io/badge/Redhat%20Certified%20System%20Administrator-black?style=for-the-badge&logo=redhat&logoColor=red&link=https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam" alt="Redhat Certified System Administrator" /></a> <a href="https://learn.microsoft.com/en-us/credentials/certifications/modern-desktop/?practice-assessment-type=certification"><img src="https://img.shields.io/badge/Microsoft%20365%20Certified:%20Endpoint%20Administrator%20Associate-navy?style=for-the-badge&logo=microsoft&link=https://learn.microsoft.com/en-us/credentials/certifications/modern-desktop/?practice-assessment-type=certification" alt="Microsoft 365 Certified: Endpoint Administrator Associate" /></a> <a href="https://aws.amazon.com/certification/certified-sysops-admin-associate/"><img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20--%20Associate-white?style=for-the-badge&logo=amazon&logoColor=orange&link=https://aws.amazon.com/certification/certified-sysops-admin-associate/" alt="AWS Certified SysOps Administrator - Associate" /></a>
 
-<h2 align="left">🧰 Languages, Systems and Tools:</h2>
+<h2 align="left">🧰 Languages, Programs and Tools:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
