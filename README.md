@@ -28,20 +28,24 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  <img width="12" /><img width="12" /><img src="https://imgur.com/2IR1Jcq.jpg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://imgur.com/2IR1Jcq.jpg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" height="40" alt="apache logo"  />
-  <img width="12" /><img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Chronicle_2020-symbol.svg/revision/latest/scale-to-width-down/250?cb=20220730082744" height="37" alt="confluence logo"  />
-  <img width="9" /><img width="12" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Chronicle logo"  />
+  <img width="12" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Chronicle_2020-symbol.svg/revision/latest/scale-to-width-down/250?cb=20220730082744" height="37" alt="Chronicle logo"  />
+  <img width="9" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="37" alt="PHP logo"  />
-  <img width="9" /> <img width="12" /><img src=https://imgur.com/569X65E.png" height="40" alt="splunk logo"  />
-  <img width="12" /><img width="12" />
+  <img width="9" />
+  <img src="https://imgur.com/569X65E.png" height="40" alt="Splunk logo"  />
+  <img width="12" />
 
 </div>
 
