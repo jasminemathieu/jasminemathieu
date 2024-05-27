@@ -46,7 +46,7 @@
 <h2>⏳ Pending Cybersecurity Projects:</h2>
 
 ### <b>Linux</b>
-  - [Lamp Server Configuration](https://github.com/jasminemathieu)
+  - [LAMP Stack Configuration](https://github.com/jasminemathieu)
   - [Load Balancing Configuration](https://github.com/jasminemathieu)
 
 <h2>🤳 Contact Me:</h2>
