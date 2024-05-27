@@ -36,14 +36,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
   <img width="12" />
+  <img width="12" /><img src="https://www.linode.com/docs/guides/applications/configuration-management/ansible/feature.png" height="50" alt="confluence logo"  />
+  <img width="22" />
   <img src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" height="40" alt="confluence logo"  />
-  <img width="12" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="37" alt="confluence logo"  />
-  <img width="9" />
   <img width="12" /><img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Chronicle_2020-symbol.svg/revision/latest/scale-to-width-down/250?cb=20220730082744" height="37" alt="confluence logo"  />
   <img width="9" /><img width="12" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="confluence logo"  />
   <img width="12" />
   <img width="12" /><img src="https://www.splunk.com/content/dam/splunk2/en_us/images/events/mediakit/splunk-corp-logo-k-rgb.png" height="40" alt="confluence logo"  />
   <img width="12" />
+  <img width="12" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="37" alt="confluence logo"  />
+  <img width="9" />
+ 
 
 </div>
 
