@@ -59,8 +59,12 @@
 <h2>⏳ Pending Cybersecurity Projects:</h2>
 
 ### <b>Linux</b>
-  - [LAMP Stack Configuration](https://github.com/jasminemathieu/LAMP-Stack)
+  - [Database Application (Part 1: LAMP Stack Configuration)](https://github.com/jasminemathieu/LAMP-Stack)
   - [Load Balancing Configuration](https://github.com/jasminemathieu)
+
+<h2>⏳ Database Application Project(s):</h2>
+
+  - [Database Application (Part 2: phpMyAdmin User Access)](https://github.com/jasminemathieu/MySQL-User-Access)
 
 <h2 align="left">📚 Courses:</h2>
 
