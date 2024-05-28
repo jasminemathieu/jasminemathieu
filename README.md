@@ -57,10 +57,11 @@
   - [Active Directory Cloud Configuration: Users, Roles and Permissionss](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
   - [Backup and Recovery in Azure](https://github.com/jasminemathieu/Backup-and-Recovery)
 
-<h2>⏳ Pending Cybersecurity Projects:</h2>
-
 ### <b>Linux</b>
   - [Database Application (Part 1: LAMP Stack Configuration)](https://github.com/jasminemathieu/LAMP-Stack)
+
+<h2>⏳ Pending Cybersecurity Project(s):</h2>
+
   - [Load Balancing Configuration](https://github.com/jasminemathieu)
 
 <h2>⏳ Database Application Project(s):</h2>
