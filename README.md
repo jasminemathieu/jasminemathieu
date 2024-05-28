@@ -62,10 +62,12 @@
   - [LAMP Stack Configuration](https://github.com/jasminemathieu)
   - [Load Balancing Configuration](https://github.com/jasminemathieu)
 
-<h2 align="left">📓 Courses:</h2>
-  - [Vulnerability Management Detection and Response (VMDR) via Qualys.com](https://github.com/jasminemathieu/Azure-SOC)
-  - [Google Cybersecurity via Coursera.org](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
-  - [Cyber Security Masterclass via Leveld] (https://github.com/jasminemathieu/Backup-and-Recovery)
+<h2 align="left">📚 Courses:</h2>
+
+<b> </b>
+  * Vulnerability Management Detection and Response (VMDR) via Qualys
+  * Google Cybersecurity via Coursera
+  * Cyber Security Masterclass via Leveld
 
 <h2>🤳 Contact Me:</h2>
 
