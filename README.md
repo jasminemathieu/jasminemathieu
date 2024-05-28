@@ -44,9 +44,10 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="37" alt="PHP logo"  />
   <img width="9" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/1200px-PhpMyAdmin_logo_2010_hidef.svg.png" height="40" alt="PhpMyAdmin logo"  />
+  <img width="12" />
   <img src="https://imgur.com/569X65E.png" height="31" alt="Splunk logo"  />
   <img width="6" />
-
 </div>
 
 <h2>🖥️ Cybersecurity Projects:</h2>
