@@ -83,4 +83,6 @@
 <a href="https://linkedin.com/in/jasmine-mathieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="mailto:jasminetmathieu@gmail.com" target="blank"><img align="top" src="https://github.com/jasminemathieu/jasminemathieu/assets/155779724/59bbacc2-134a-455d-aff7-a1c9a4b32e92.svg" alt="rishav_chanda" height="40" width="40" /></a> 
 
+![image](https://github.com/jasminemathieu/jasminemathieu/assets/155779724/af73a7ca-1f47-4cbd-8904-600f4d30a60c)
+
 </p>
