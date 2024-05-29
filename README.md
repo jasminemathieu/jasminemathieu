@@ -44,6 +44,8 @@
   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark logo"  />
   <img width="12" />
+  <img src="https://cogitech.pl/wp-content/uploads/2023/03/mariadb-logo-vert_blue-transparent-1.png" height="40" alt="Mariadb logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="37" alt="PHP logo"  />
   <img width="9" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/1200px-PhpMyAdmin_logo_2010_hidef.svg.png" height="40" alt="PhpMyAdmin logo"  />
