@@ -58,7 +58,7 @@
 
 ### <b>Microsoft Azure</b>
   - [Live SOC/Honeynet Architecture in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
-  - [Active Directory Cloud Configuration: Users, Roles and Permissionss](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
+  - [Active Directory Cloud Configuration: Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
   - [Backup and Recovery in Azure](https://github.com/jasminemathieu/Backup-and-Recovery)
 
 ### <b>Linux</b>
