@@ -63,12 +63,10 @@
 
 ### <b>Linux</b>
   - [Database Application (Part 1: LAMP Stack Configuration)](https://github.com/jasminemathieu/LAMP-Stack)
+  - [Ansible Automation)](https://github.com/jasminemathieu/Ansible-Automation)
 
 ### <b>Database Application </b>
   - [Database Application (Part 2: phpMyAdmin User Access)](https://github.com/jasminemathieu/MySQL-User-Access)
-
-### <b></b>
-  - [Ansible Automation)](https://github.com/jasminemathieu/Ansible-Automation)
 
 <h2 align="left">📚 Courses:</h2>
 
