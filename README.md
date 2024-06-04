@@ -52,10 +52,10 @@
   <img width="12" />
   <img src="https://imgur.com/569X65E.png" height="31" alt="Splunk logo"  />
   <img width="6" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" height="40" alt="Ubuntu logo"  />
-  <img width="12" />
   <img src="https://iconape.com/wp-content/png_logo_vector/kali-linux-logo.png" height="40" alt="Kali logo"  />
   <img width="12" />
+   <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" height="40" alt="Ubuntu logo"  />
+  <img width="12" /> 
   <img src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" height="40" alt="Debian logo"  />
   <img width="12" />
   <img src="https://cp.beget.com/shared/C7S8P7i80sD5wcp6Dp23-hffelTDwVhz/centos.png" height="40" alt="CentosStream9 logo"  />
