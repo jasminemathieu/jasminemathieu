@@ -1,6 +1,6 @@
 <h1>Welcome to my Github! 
   
-  I'm Jasmine - System Administrator, Cybersecurity Professional</a></h1>
+  I'm Jasmine - Cybersecurity Professional</a></h1>
 
 <h2 align="left">📜 Secured Certifications:</h2>
 
