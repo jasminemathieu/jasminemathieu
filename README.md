@@ -56,6 +56,8 @@
   <img width="12" />
   <img src="https://imgur.com/569X65E.png" height="31" alt="Splunk logo"  />
   <img width="6" />
+  <img src="https://imgur.com/IUQp8Rp.png" height="40" alt="IBM Verify"  />
+  <img width="12" />
 
 </div>
 
