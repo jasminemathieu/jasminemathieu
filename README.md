@@ -75,6 +75,9 @@
 ### <b>Database Administration </b>
   - [Database Application (Part 2: phpMyAdmin User Access)](https://github.com/jasminemathieu/MySQL-User-Access)
 
+### <b>IBM</b>
+  - [Configure Custom App to Integrate with IBM Security Verify for SSO](https://github.com/jasminemathieu/IBM_Verify)
+
 <h2 align="left">📚 Courses:</h2>
 
 <b> </b>
