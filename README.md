@@ -33,9 +33,9 @@
   <img width="12" />
   <img src="https://cp.beget.com/shared/C7S8P7i80sD5wcp6Dp23-hffelTDwVhz/centos.png" height="40" alt="CentosStream9 logo"  />
   <img width="12" />
-  <img src="https://iconape.com/wp-content/png_logo_vector/kali-linux-logo.png" height="40" alt="Kali logo"  />
-  <img width="12" /><img src="https://imgur.com/E59pExQ.png" height="40" alt="powershell logo"  />
-  <img width="12" />
+  <img src="https://imgur.com/lhdSNs7.png" height="40" alt="Kali logo"  />
+  <img width="12" /><img src="https://imgur.com/E59pExQ.png" height="38" alt="powershell logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
@@ -50,8 +50,8 @@
   <img width="12" />
   <img src="https://cogitech.pl/wp-content/uploads/2023/03/mariadb-logo-vert_blue-transparent-1.png" height="40" alt="Mariadb logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="37" alt="PHP logo"  />
-  <img width="9" />
+  <img src="https://imgur.com/MUlwwzy.png" height="40" alt="PHP logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/1200px-PhpMyAdmin_logo_2010_hidef.svg.png" height="40" alt="PhpMyAdmin logo"  />
   <img width="12" />
   <img src="https://imgur.com/569X65E.png" height="31" alt="Splunk logo"  />
