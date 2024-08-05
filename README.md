@@ -34,7 +34,7 @@
   <img src="https://cp.beget.com/shared/C7S8P7i80sD5wcp6Dp23-hffelTDwVhz/centos.png" height="40" alt="CentosStream9 logo"  />
   <img width="12" />
   <img src="https://iconape.com/wp-content/png_logo_vector/kali-linux-logo.png" height="40" alt="Kali logo"  />
-  <img width="12" /><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="40" alt="powershell logo"  />
+  <img width="12" /><img src="https://imgur.com/E59pExQ.png" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
