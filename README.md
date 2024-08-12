@@ -68,17 +68,18 @@
 ### <b>Microsoft Azure</b>
   - [Live SOC/Honeynet Architecture in Azure + Security Hardening](https://github.com/jasminemathieu/Azure-SOC)
   - [Active Directory Cloud Configuration: Users, Roles and Permissions](https://github.com/jasminemathieu/Cloud-AD-Configuration.git)
-  - [Backup and Recovery in Azure](https://github.com/jasminemathieu/Backup-and-Recovery)
+  - [Azure Backup and Recovery: Ensuring High Availability and Secure Data Management](https://github.com/jasminemathieu/Backup-and-Recovery)
+  - [Azure Shared Data Disks: Configuration, Provisioning, and Application](https://github.com/jasminemathieu/shared_disk_config)
 
 ### <b>Linux</b>
-  - [Database Application (Part 1: LAMP Stack Configuration)](https://github.com/jasminemathieu/LAMP-Stack)
-  - [Ansible Automation](https://github.com/jasminemathieu/Ansible-Automation)
+  - [Deploying and Configuring a LAMP Stack for Functional Database Applications](https://github.com/jasminemathieu/LAMP-Stack)
+  - [Automating Linux Server Management on Azure VMs with Ansible](https://github.com/jasminemathieu/Ansible-Automation)
 
 ### <b>Database Administration </b>
-  - [Database Application (Part 2: phpMyAdmin User Access)](https://github.com/jasminemathieu/MySQL-User-Access)
+  - [phpMyAdmin Configuration Insights: User Access, Table Structure, and Privileges](https://github.com/jasminemathieu/MySQL-User-Access)
 
 ### <b>IBM</b>
-  - [Configure Custom App to Integrate with IBM Security Verify for SSO](https://github.com/jasminemathieu/IBM_Verify)
+  - [Implementing SSO for Custom Applications with IBM Security Verify](https://github.com/jasminemathieu/IBM_Verify)
 
 <h2 align="left">📚 Courses:</h2>
 
