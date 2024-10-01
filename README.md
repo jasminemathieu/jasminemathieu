@@ -58,6 +58,11 @@
   <img width="6" />
   <img src="https://imgur.com/IUQp8Rp.png" height="40" alt="IBM Verify"  />
   <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="40" alt="IBM Verify"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-security/control-access-with-aws-identity-and-access-management/images/3d5ecfeab35e8dfc1eb781f7880fafc9_99-c-15-ccc-fe-5-e-4-d-8-f-bcfc-193197-b-9-dc-7-b.png" height="40" alt="IBM Verify"  />
+  <img width="12" />
+
 
 </div>
 
