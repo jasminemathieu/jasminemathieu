@@ -1,6 +1,6 @@
 <h1>Welcome to my Github! 
   
-  I'm Jasmine - Cybersecurity Professional (IAM Focus) </a></h1>
+  I'm Jasmine - Cybersecurity Professional, IAM Operations </a></h1>
 
 <h2 align="left">📜 Secured Certifications:</h2>
 
