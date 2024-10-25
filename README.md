@@ -62,7 +62,7 @@
   <img width="12" />
   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-security/control-access-with-aws-identity-and-access-management/images/3d5ecfeab35e8dfc1eb781f7880fafc9_99-c-15-ccc-fe-5-e-4-d-8-f-bcfc-193197-b-9-dc-7-b.png" height="40" alt="IBM Verify"  />
   <img width="12" />
-  <img src="https://companieslogo.com/img/orig/OKTA-8b49bf18.png?t=1720244493.png" height="40" alt="Okta"  />
+  <img src="https://imgur.com/GhtQ31J.png" height="40" alt="Okta"  />
   <img width="12" />
 
 </div>
