@@ -86,6 +86,9 @@
 ### <b>IBM</b>
   - [Implementing SSO for Custom Applications with IBM Security Verify](https://github.com/jasminemathieu/IBM_Verify)
 
+  ### <b>Okta</b>
+  - [API Service Integrations on Okta](https://github.com/jasminemathieu/API-Okta101)
+
 <h2 align="left">📚 Courses:</h2>
 
 <b> </b>
