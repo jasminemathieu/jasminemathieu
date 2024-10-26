@@ -90,6 +90,10 @@
   ### <b>Okta</b>
   - [Seamless API Integrations with Okta for Enhanced IAM Efficiency](https://github.com/jasminemathieu/API-Okta101)
 
+  ### <b>Amazon AWS</b>
+  - [Streamlining AWS Policy Development and Implementation for Enhanced Security](https://github.com/jasminemathieu/aws_policy_gen)
+
+
 <h2 align="left">📚 Courses:</h2>
 
 <b> </b>
