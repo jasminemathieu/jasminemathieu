@@ -92,6 +92,7 @@
 
   ### <b>Amazon AWS</b>
   - [Streamlining AWS Policy Development and Implementation for Enhanced Security](https://github.com/jasminemathieu/aws_policy_gen)
+  - [Configuring Multi-Factor Authentication (MFA) in AWS IAM](https://github.com/jasminemathieu/aws_user_mfa)
 
 
 <h2 align="left">📚 Courses:</h2>
