@@ -64,8 +64,6 @@
   <img width="12" />
   <img src="https://imgur.com/ibdtbAs.png" height="40" alt="Okta"  />
   <img width="12" />
-  <img src="https://community.sailpoint.com/t5/image/serverpage/image-id/10257i812C270F262D4995/image-size/large/is-moderation-mode/true?v=v2&px=999.png" height="40" alt="Okta"  />
-  <img width="12" />
 
 </div>
 
