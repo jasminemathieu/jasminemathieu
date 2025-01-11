@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" height="40" alt="Ubuntu logo"  />
   <img width="12" /> 
-  <img src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" height="40" alt="Debian logo"  />
+  <img src="https://www.shareicon.net/data/512x512/2015/09/16/101872_debian_512x512.png" height="40" alt="Debian logo"  />
   <img width="12" />
   <img src="https://cp.beget.com/shared/C7S8P7i80sD5wcp6Dp23-hffelTDwVhz/centos.png" height="40" alt="CentosStream9 logo"  />
   <img width="12" />
@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://imgur.com/2IR1Jcq.jpg" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" height="40" alt="apache logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Chronicle_2020-symbol.svg/revision/latest/scale-to-width-down/250?cb=20220730082744" height="37" alt="Chronicle logo"  />
   <img width="9" />
